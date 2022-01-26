@@ -15,6 +15,7 @@ public class FutureValueConsole {
 
     public static void main(String[] args) {
         System.out.println("Welcome to the Future Value Calculator");
+        System.out.println("tHIS IS an update for git");
         System.out.println();
 
         // get a Scanner object to scan for user input
